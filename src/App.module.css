@@ -1,3 +1,13 @@
+.container {
+  width: 900px;
+}
+
+.text {
+  font-size: 24px;
+  color: red;
+}
+
+
 #root {
   max-width: 1280px;
   margin: 0 auto;

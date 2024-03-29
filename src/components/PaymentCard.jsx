@@ -7,7 +7,7 @@ export default function PaymentCard({
         cardType,
         cardOwner,
         date,
-        isPaid
+        isPaid,
     },
 }) {
     return (
