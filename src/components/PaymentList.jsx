@@ -1,4 +1,4 @@
-import PaymentCard from "../PaymentCard";
+import PaymentCard from "./PaymentCard";
 
 export default function PaymentList({payments}) {
     return (
